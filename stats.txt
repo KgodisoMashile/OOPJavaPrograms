@@ -1,0 +1,22 @@
+Message{text=I love programming.}
+
+Message statictics
+Size: 152 bytes
+Number of whitespaces: 2
+Number of commas: 1
+Number of fullstops: 1
+
+Frequency of occurence of wordslove : 1
+I : 1
+programming : 1
+Message{text=I love programming.}
+
+Message statictics
+Size: 152 bytes
+Number of whitespaces: 2
+Number of commas: 0
+Number of fullstops: 1
+
+Frequency of occurence of wordslove : 1
+I : 1
+programming : 1
